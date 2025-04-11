@@ -1,0 +1,5 @@
+placa,modelo,ano,categoria,data_compra,status,km_atual
+3232,FIAT TOURO,1999,B,2025-04-07,Fora do prazo,0
+3232,UNO MOBI,2020,B,2025-04-07,Dentro do prazo,0
+3232,harley,1900,A,2015-04-07,Fora do prazo,0
+3232,susuki tinruder,2020,A,2017-03-02,Dentro do prazo,0
