@@ -81,5 +81,5 @@ Este projeto foi desenvolvido como parte de um Projeto Integrador da UNIVESP. Us
 
 **William Jesus**  
 Estudante de Engenharia da Computação – UNIVESP  
-Desenvolvedor backend e entusiasta por soluções digitais para problemas reais.
+Desenvolvedor backend, player de marvel rivals eee advogado?????? (isso não faz o menor sentido)
 ```
