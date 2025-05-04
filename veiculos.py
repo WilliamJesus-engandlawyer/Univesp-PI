@@ -1,3 +1,4 @@
+# public class Veiculo {}  // Java dummy class
 import streamlit as st
 import pandas as pd
 from datetime import datetime
